@@ -34,7 +34,7 @@ function writePassword() {
     if (passwordValue = upperCase) {
       content = upperCase[Math.floor(Math.random() * upperCase.length - 1)]
       console.log(content);
-      passwordLength = passwordValue;
+
     }
 
     if (passwordValue = lowerCase) {
